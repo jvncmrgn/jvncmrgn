@@ -12,4 +12,4 @@ Hey, I'm Jovanic! 🚀 I am a passionate individual and have a tendency to explo
 - **Music**: I like listening to music and playing music. Filling my free time by listening to music is my habit.
 
 ### Connect with Me
-Feel free to connect with me on LinkedIn ([LinkedIn](https://www.linkedin.com/in/jovanic-morgan/))
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jovanic-morgan/)
