@@ -4,12 +4,12 @@
 
 ### About Me
 
-Hey, I'm Jovanic! 🚀 I'm a passionate individual with a penchant for exploration, both in the digital realm and beyond. I thrive on the thrill of discovery, whether it's through lines of code or the pages of a good book.
+Hey, I'm Jovanic! 🚀 I am a passionate individual and have a tendency to explore, both in the digital world and beyond. I am an informatics student who is interested in the world of artificial intelligence, especially machine learning. I also like to try to dive into the world of big data.
 
 ### What I Love
 
 - **Playing**: You'll often find me immersed in virtual worlds, navigating through challenges and triumphs in games of all kinds. From epic adventures to strategic conquests, I'm always up for a gaming session.
-- **Music**: Ah, the soul-stirring power of music! I love creating melodies and harmonies that resonate with the heart. Whether it's strumming on a guitar or tinkering with digital beats, music is my ultimate form of expression.
+- **Music**: I like listening to music and playing music. Filling my free time by listening to music is my habit.
 
 ### Connect with Me
 Feel free to connect with me on LinkedIn
